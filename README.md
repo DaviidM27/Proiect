@@ -39,6 +39,10 @@ Product
 
 Restaurant
 
+FastFood
+
+RestaurantTraditional
+
 Review
 
 Promotion
