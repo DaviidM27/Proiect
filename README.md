@@ -1,18 +1,46 @@
-## Getting Started
+## Food Delivery Service
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java console-based food delivery app where users can manage restaurants, clients, drivers, orders, reviews, and promotions using OOP principles.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+##Actions
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Add a new restaurant (FastFood or Traditional)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Add a product to a restaurant's menu
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Register a new client
 
-## Dependency Management
+Add a delivery driver
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Create a new order
+
+Add products to an order
+
+View a restaurant's menu
+
+Add a review to a restaurant
+
+View reviews for a restaurant
+
+Add and view active promotions
+
+
+
+## Classes
+
+Client
+
+DeliveryDriver
+
+Order
+
+Product
+
+Restaurant
+
+Review
+
+Promotion
+
+FoodDeliveryService
