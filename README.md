@@ -3,7 +3,7 @@
 A Java console-based food delivery app where users can manage restaurants, clients, drivers, orders, reviews, and promotions using OOP principles.
 
 
-##Actions
+## Actions
 
 Add a new restaurant (FastFood or Traditional)
 
